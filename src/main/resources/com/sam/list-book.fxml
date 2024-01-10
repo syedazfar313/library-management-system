@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.cell.PropertyValueFactory?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.VBox?>
+<VBox alignment="CENTER" spacing="20.0" xmlns="http://javafx.com/javafx/13" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.sam.controllers.ListBooksController">
+    <padding>
+        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+    </padding>
+    <children>
+        <TableView fx:id="bookTable">
+            <columns>
+                <TableColumn text="Name" prefWidth="150">
+                    <cellValueFactory>
+                        <PropertyValueFactory property="Name" />
+                    </cellValueFactory>
+                </TableColumn>
+                <TableColumn text="Author" prefWidth="150">
+                    <cellValueFactory>
+                        <PropertyValueFactory property="AuthorName" />
+                    </cellValueFactory>
+                </TableColumn>
+                <TableColumn text="Publisher" prefWidth="150">
+                    <cellValueFactory>
+                        <PropertyValueFactory property="PublisherName" />
+                    </cellValueFactory>
+                </TableColumn>
+                <TableColumn text="Pages" prefWidth="50">
+                    <cellValueFactory>
+                        <PropertyValueFactory property="NumberOfPages" />
+                    </cellValueFactory>
+                </TableColumn>
+                <TableColumn text="Published Date" prefWidth="150">
+                    <cellValueFactory>
+                        <PropertyValueFactory property="PublishedDate" />
+                    </cellValueFactory>
+                </TableColumn>
+            </columns>
+        </TableView>
+
+        <!-- Go Back Button -->
+        <Button text="Go Back" onAction="#goBackToHome" />
+    </children>
+</VBox>
