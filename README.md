@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Library Management System - JavaFX</title>
+    
 </head>
 <body>
 
@@ -84,11 +84,6 @@
     <li><strong>Generate Reports:</strong> Use the reporting tools to generate and export reports on inventory, loans, and members.</li>
 </ol>
 
-<h2 id="screenshots">Screenshots</h2>
-<p><img src="screenshots/login.png" alt="Login Screen" width="600"><br><em>Login screen for different user roles.</em></p>
-<p><img src="screenshots/dashboard.png" alt="Dashboard" width="600"><br><em>Dashboard showing an overview of library activities.</em></p>
-<p><img src="screenshots/book-management.png" alt="Book Management" width="600"><br><em>Manage books easily using the GUI.</em></p>
-
 <h2 id="contributing">Contributing</h2>
 <p>Contributions are welcome! If you have ideas for improvements or new features, feel free to fork the repository, make changes, and submit a pull request.</p>
 
@@ -98,7 +93,7 @@
 <h2 id="contact">Contact</h2>
 <p>If you have any questions, suggestions, or feedback, feel free to reach out:</p>
 <ul>
-    <li><strong>Author:</Syed Azfar Mustafa</li>
+    <li><strong>Author:</> Syed Azfar Mustafa</li>
     <li><strong>Email:</strong> syedazfar027@gmail.com</li>
     <li><strong>GitHub:</strong> <a href="https://github.com/syedazfar313" target="_blank">syedazfar313</a></li>
     <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/your-profile" target="_blank">Your Syed Azfar Mustafa </a></li>
