@@ -48,10 +48,10 @@
 
 <ol>
     <li><strong>Clone the repository:</strong>
-        <pre><code>git clone https://github.com/your-username/library-management-system-javafx.git</code></pre>
+        <pre><code>git clone https://github.com/syedazfar313/library-management-system.git</code></pre>
     </li>
     <li><strong>Navigate to the project directory:</strong>
-        <pre><code>cd library-management-system-javafx</code></pre>
+        <pre><code>cd library-management-system</code></pre>
     </li>
     <li><strong>Configure the database:</strong>
         <p>Ensure MySQL or SQLite is installed on your machine.</p>
@@ -98,10 +98,10 @@
 <h2 id="contact">Contact</h2>
 <p>If you have any questions, suggestions, or feedback, feel free to reach out:</p>
 <ul>
-    <li><strong>Author:</strong> Syed Azfar Abbas</li>
+    <li><strong>Author:</Syed Azfar Mustafa</li>
     <li><strong>Email:</strong> syedazfar027@gmail.com</li>
-    <li><strong>GitHub:</strong> <a href="https://github.com/your-username" target="_blank">syed Azfar Mustafa</a></li>
-    <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/your-profile" target="_blank">syed Azfar Mustafa</a></li>
+    <li><strong>GitHub:</strong> <a href="https://github.com/syedazfar313" target="_blank">syedazfar313</a></li>
+    <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/your-profile" target="_blank">Your Syed Azfar Mustafa </a></li>
 </ul>
 
 </body>
